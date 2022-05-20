@@ -1,9 +1,7 @@
 import 'package:animate_do/animate_do.dart';
-import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:hive/hive.dart';
 import 'package:prac1/core/components/SizConfig.dart';
 import 'package:prac1/core/constants/PM_const.dart';
 import 'package:prac1/core/constants/colorConst.dart';
